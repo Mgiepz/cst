@@ -3,3 +3,4 @@ override.properties
 bin/
 dist/
 #lib/
+.DS_Store
